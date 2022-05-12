@@ -1,5 +1,7 @@
 # swagger
 In this project I have used ModelMapper and Springfox libraries.
+Backend Project with Spring Boot 2.6.7, java.version:1.8, H2 Database, Lombok, ModelMapper and Springfox
+
 
 For POST test operations, you can use json below
 {
